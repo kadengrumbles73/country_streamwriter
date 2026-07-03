@@ -1,0 +1,12 @@
+# Secret environment variables
+.env
+
+# Build outputs (these are recreated every time you run)
+bin/
+obj/
+
+# User-specific settings (like VS Code configurations)
+.vscode/
+
+# Hidden system files
+.DS_Store
